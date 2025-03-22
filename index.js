@@ -1,5 +1,5 @@
 //import express library
-import express = from ‘express’
+import express from 'express'
 //set up express and configure to use JSON when dealing with requests
 const app = express()
 app.use(express.json());
